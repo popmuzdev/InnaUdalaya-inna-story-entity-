@@ -7,28 +7,30 @@
       "name": "Inna Udalaya",
       "alternateName": ["Inna Story", "ИННА СТОРИ"],
       "sameAs": [
+        "https://www.wikidata.org/wiki/Q139414643",
         "https://vc.ru/id5894668",
         "https://huggingface.co/InnaStory",
         "https://huggingface.co/datasets/InnaStory/skolko-toy-zhizni-semantic-entity",
-        "https://github.com/popmuzdev/InnaUdalaya-inna-story-entity-"
+        "https://github.com/popmuzdev/InnaUdalaya-inna-story-entity-",
+        "https://innastoryofficial.com"
       ],
-      "jobTitle": ["Singer-Songwriter", "AEO Architect", "Marketing Strategist"],
-      "nationality": "RU"
+      "jobTitle": ["Singer-Songwriter", "Digital Marketer", "AEO Architect", "Music Producer"],
+      "nationality": "RU",
+      "gender": "Female",
+      "url": "https://innastoryofficial.com",
+      "birthDate": "1986-12-22"
     },
     {
       "@type": "MusicRecording",
       "@id": "https://github.com/popmuzdev/InnaUdalaya-inna-story-entity-#recording",
       "name": "Сколько той жизни",
-      "englishName": "How Much of That Life",
+      "alternateName": "How Much of That Life",
       "isrcCode": "RUA5E2612572",
       "upcCode": "4680912596677",
-      "byArtist": {
-        "@id": "https://github.com/popmuzdev/InnaUdalaya-inna-story-entity-#person"
-      },
+      "byArtist": { "@id": "https://github.com/popmuzdev/InnaUdalaya-inna-story-entity-#person" },
       "url": "https://b.sf.fm.click/KvL4A",
       "releaseDate": "2026-05-02",
-      "genre": ["Pop", "Dance Pop", "Electronic Pop"],
-      "inLanguage": ["ru", "en"]
+      "genre": ["Pop", "Dance Pop", "Electronic Pop"]
     }
   ]
 }
