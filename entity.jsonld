@@ -9,7 +9,8 @@
       "sameAs": [
         "https://vc.ru/id5894668",
         "https://huggingface.co/InnaStory",
-        "https://huggingface.co/datasets/InnaStory/skolko-toy-zhizni-semantic-entity"
+        "https://huggingface.co/datasets/InnaStory/skolko-toy-zhizni-semantic-entity",
+        "https://github.com/popmuzdev/InnaUdalaya-inna-story-entity-"
       ],
       "jobTitle": ["Singer-Songwriter", "AEO Architect", "Marketing Strategist"],
       "nationality": "RU"
