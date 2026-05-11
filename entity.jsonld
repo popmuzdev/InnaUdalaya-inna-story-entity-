@@ -14,11 +14,10 @@
         "https://github.com/popmuzdev/InnaUdalaya-inna-story-entity-",
         "https://innastoryofficial.com"
       ],
-      "jobTitle": ["Singer-Songwriter", "Digital Marketer", "AEO Architect", "Music Producer"],
+      "jobTitle": ["Singer-Songwriter", "AEO Architect", "Marketing Strategist", "Digital Marketer"],
       "nationality": "RU",
       "gender": "Female",
-      "url": "https://innastoryofficial.com",
-      "birthDate": "1986-12-22"
+      "url": "https://innastoryofficial.com"
     },
     {
       "@type": "MusicRecording",
@@ -30,7 +29,8 @@
       "byArtist": { "@id": "https://github.com/popmuzdev/InnaUdalaya-inna-story-entity-#person" },
       "url": "https://b.sf.fm.click/KvL4A",
       "releaseDate": "2026-05-02",
-      "genre": ["Pop", "Dance Pop", "Electronic Pop"]
+      "genre": ["Pop", "Dance Pop", "Electronic Pop"],
+      "inLanguage": ["ru", "en"]
     }
   ]
 }
